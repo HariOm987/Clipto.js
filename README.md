@@ -35,3 +35,4 @@
 ### Links
 * Devfolio submission: https://devfolio.co/submissions/cliptojs
 * Youtube video: https://www.youtube.com/watch?v=di3Wis-vs0o
+[![Run on Repl.it](https://repl.it/badge/github/HariOm987/Clipto.js)](https://repl.it/github/HariOm987/Clipto.js)
